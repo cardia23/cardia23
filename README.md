@@ -41,9 +41,6 @@ Também atuo com **serviços AWS (EC2, S3, Route 53** e automações em **Bash/L
 
 - **Monitoramento de Cron Jobs em tempo real (Grafana + Prometheus)** – criação de **dashboard interativo** para visualização e alerta em tempo real da execução de cron jobs, garantindo visibilidade e confiabilidade das automações críticas.
 
-
-- 
-
 ---
 Sempre buscando aprender, otimizar processos e criar soluções inteligentes em tecnologia.  
 
