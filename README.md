@@ -6,7 +6,7 @@
 
 ---
 
-🎯 **Analista Cloud | DevOps | Automação de Processos**
+**Analista Cloud | DevOps | Automação de Processos**
 
 Sou apaixonado por tecnologia e automação.  
 Atualmente trabalho como **DevOps**,**Integrações via API**, **RPA com Python** e **Pipelines no Azure DevOps**.  
@@ -14,7 +14,7 @@ Também atuo com **serviços AWS (EC2, S3, Route 53** e automações em **Bash/L
 
 ---
 
-### 🧠 Tecnologias e Ferramentas
+### Tecnologias e Ferramentas
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
@@ -29,17 +29,17 @@ Também atuo com **serviços AWS (EC2, S3, Route 53** e automações em **Bash/L
 </div><br/>
 
 ---
-### 🚀 Alguns projetos e automações
+### Alguns projetos e automações
 
-- 🤖 **Integração Movidesk ⇄ Azure DevOps via API** – desenvolvimento de integração completa para automação do ciclo de chamados, incluindo criação, atualização e sincronização de status entre as plataformas.
+- **Integração Movidesk ⇄ Azure DevOps via API** – desenvolvimento de integração completa para automação do ciclo de chamados, incluindo criação, atualização e sincronização de status entre as plataformas.
 
-- 🧩 **Pipeline YAML no Azure DevOps** – criação de pipelines totalmente automatizadas para deploy de sistemas web, abrangendo desde a **clonagem de banco de dados de produção para ambientes de desenvolvimento** até a **implantação final via chamadas de API** no Scriptcase.
+- **Pipeline YAML no Azure DevOps** – criação de pipelines totalmente automatizadas para deploy de sistemas web, abrangendo desde a **clonagem de banco de dados de produção para ambientes de desenvolvimento** até a **implantação final via chamadas de API** no Scriptcase.
 
-- 🔄 **RPA em Python** – desenvolvimento de robô para **conexão automática de links**, integrando com o Scriptcase para execução autônoma de scripts e manutenção de disponibilidade de sistemas.
+- **RPA em Python** – desenvolvimento de robô para **conexão automática de links**, integrando com o Scriptcase para execução autônoma de scripts e manutenção de disponibilidade de sistemas.
 
-- ☁️ **Rotinas AWS e automações Bash** – implementação de **rotinas automatizadas** em ambientes Linux para **backups, snapshots, monitoramento e otimização de recursos**, utilizando serviços como EC2, S3 e Route 53.
+- **Rotinas AWS e automações Bash** – implementação de **rotinas automatizadas** em ambientes Linux para **backups, snapshots, monitoramento e otimização de recursos**, utilizando serviços como EC2, S3 e Route 53.
 
-- 📊 **Monitoramento de Cron Jobs em tempo real (Grafana + Prometheus)** – criação de **dashboard interativo** para visualização e alerta em tempo real da execução de cron jobs, garantindo visibilidade e confiabilidade das automações críticas.
+- **Monitoramento de Cron Jobs em tempo real (Grafana + Prometheus)** – criação de **dashboard interativo** para visualização e alerta em tempo real da execução de cron jobs, garantindo visibilidade e confiabilidade das automações críticas.
 
 
 - 
@@ -49,8 +49,7 @@ Sempre buscando aprender, otimizar processos e criar soluções inteligentes em 
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cardia23&theme=blue-green)
 
 ---
 
-> “Automatizar é transformar tempo em inovação.” ⚙️
+> “Automatizar é transformar tempo em inovação.” 
